@@ -5,3 +5,4 @@ I'm from Bangladesh
 I love to code
 I'm completing my hons from DIU.
 Now I am gaining skills
+Now learing git and github
