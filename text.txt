@@ -7,4 +7,5 @@ I'm completing my hons from DIU.
 Now I am gaining skills
 Now learing git and github
 I just learn that how to push git
-this line for pull
+this line for pull 
+I think am clear about push and pull
